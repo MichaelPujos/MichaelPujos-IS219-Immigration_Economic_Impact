@@ -1,0 +1,53 @@
+.about-container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .hero-section {
+    background-color: #153A6F;
+    color: white;
+    text-align: center;
+    padding: 40px 20px;
+    border-radius: 10px;
+  }
+  
+  .info-section {
+    margin-top: 30px;
+    padding: 20px;
+    background: #e9ecef;
+    border-radius: 10px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  ul li a {
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+  }
+  
+  .cta-section {
+    text-align: center;
+    margin-top: 30px;
+  }
+  
+  .explore-button {
+    display: inline-block;
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .explore-button:hover {
+    background-color: #0056b3;
+  }
+  
